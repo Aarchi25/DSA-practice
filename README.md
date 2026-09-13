@@ -71,8 +71,25 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aarchi25/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+| [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aarchi25/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
