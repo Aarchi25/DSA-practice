@@ -106,4 +106,5 @@
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aarchi25/DSA-practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/Aarchi25/DSA-practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
