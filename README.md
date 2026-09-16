@@ -102,4 +102,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aarchi25/DSA-practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
