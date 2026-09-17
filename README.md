@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Aarchi25/DSA-practice/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -102,9 +103,14 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Aarchi25/DSA-practice/tree/master/0231-power-of-two) |
 ## Database
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aarchi25/DSA-practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Aarchi25/DSA-practice/tree/master/0595-big-countries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Aarchi25/DSA-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
