@@ -111,6 +111,7 @@
 | [0595-big-countries](https://github.com/Aarchi25/DSA-practice/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Aarchi25/DSA-practice/tree/master/0596-classes-with-at-least-5-students) |
 | [1075-project-employees-i](https://github.com/Aarchi25/DSA-practice/tree/master/1075-project-employees-i) |
+| [1251-average-selling-price](https://github.com/Aarchi25/DSA-practice/tree/master/1251-average-selling-price) |
 ## Bit Manipulation
 |  |
 | ------- |
