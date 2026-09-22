@@ -14,6 +14,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Aarchi25/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -37,11 +38,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
