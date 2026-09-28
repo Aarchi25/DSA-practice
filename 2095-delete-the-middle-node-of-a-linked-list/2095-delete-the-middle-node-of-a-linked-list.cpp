@@ -15,10 +15,11 @@ public:
         if(head->next == NULL)
             return NULL;
 
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
+        // ListNode* dummy = new ListNode(0);
+        // dummy->next = head;
 
-        ListNode* slow = dummy;
+        ListNode* slow = new ListNode(0);
+        slow->next=head;
         ListNode* fast = head;
 
         while(fast != NULL && fast->next != NULL) {
