@@ -9,6 +9,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aarchi25/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aarchi25/DSA-practice/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aarchi25/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aarchi25/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -111,6 +113,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aarchi25/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aarchi25/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aarchi25/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0328-odd-even-linked-list) |
