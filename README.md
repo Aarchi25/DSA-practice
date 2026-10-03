@@ -103,6 +103,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aarchi25/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aarchi25/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aarchi25/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
 | ------- |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aarchi25/DSA-practice/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aarchi25/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
