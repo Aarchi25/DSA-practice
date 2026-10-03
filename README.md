@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aarchi25/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aarchi25/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aarchi25/DSA-practice/tree/master/0014-longest-common-prefix) |
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aarchi25/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Aarchi25/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -179,5 +181,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aarchi25/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aarchi25/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
