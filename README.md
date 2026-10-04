@@ -151,6 +151,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Aarchi25/DSA-practice/tree/master/0596-classes-with-at-least-5-students) |
 | [1075-project-employees-i](https://github.com/Aarchi25/DSA-practice/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/Aarchi25/DSA-practice/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/Aarchi25/DSA-practice/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Aarchi25/DSA-practice/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/Aarchi25/DSA-practice/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Aarchi25/DSA-practice/tree/master/1484-group-sold-products-by-the-date) |
