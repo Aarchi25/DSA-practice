@@ -28,6 +28,7 @@
 | [0125-valid-palindrome](https://github.com/Aarchi25/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+| [1021-remove-outermost-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
@@ -87,10 +88,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
