@@ -7,12 +7,9 @@ public:
         while(r<s.size()){
             hash[s[r]-'A']++;
             maxF=max(maxF,hash[s[r]-'A']);
-            while((r-l+1)-maxF>k){
+            if((r-l+1)-maxF>k){
                 hash[s[l]-'A']--;
                 maxF=0;
-                for(int i=0;i<26;i++){
-                    maxF=max(maxF,hash[i]);
-                }
                 l++;
             }
             if((r-l+1)-maxF<=k) maxLen=max(maxLen,r-l+1);
