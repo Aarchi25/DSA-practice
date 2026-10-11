@@ -177,6 +177,7 @@
 | [1683-invalid-tweets](https://github.com/Aarchi25/DSA-practice/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Aarchi25/DSA-practice/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/Aarchi25/DSA-practice/tree/master/1789-primary-department-for-each-employee) |
+| [1795-rearrange-products-table](https://github.com/Aarchi25/DSA-practice/tree/master/1795-rearrange-products-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aarchi25/DSA-practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bit Manipulation
 |  |
