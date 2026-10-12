@@ -120,6 +120,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aarchi25/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/Aarchi25/DSA-practice/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Aarchi25/DSA-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aarchi25/DSA-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarchi25/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/Aarchi25/DSA-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aarchi25/DSA-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aarchi25/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
