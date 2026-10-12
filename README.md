@@ -14,6 +14,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Aarchi25/DSA-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aarchi25/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Aarchi25/DSA-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -58,6 +59,7 @@
 | [0141-linked-list-cycle](https://github.com/Aarchi25/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aarchi25/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Aarchi25/DSA-practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aarchi25/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aarchi25/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Aarchi25/DSA-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aarchi25/DSA-practice/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Aarchi25/DSA-practice/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarchi25/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -196,6 +199,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aarchi25/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Aarchi25/DSA-practice/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
