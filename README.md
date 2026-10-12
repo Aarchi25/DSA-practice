@@ -185,6 +185,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Aarchi25/DSA-practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aarchi25/DSA-practice/tree/master/0231-power-of-two) |
 ## Trie
 |  |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aarchi25/DSA-practice/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Aarchi25/DSA-practice/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
