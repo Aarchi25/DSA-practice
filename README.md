@@ -27,6 +27,7 @@
 | [0014-longest-common-prefix](https://github.com/Aarchi25/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/Aarchi25/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Aarchi25/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Aarchi25/DSA-practice/tree/master/0412-fizz-buzz) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aarchi25/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Aarchi25/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Aarchi25/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aarchi25/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aarchi25/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Aarchi25/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aarchi25/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Aarchi25/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Aarchi25/DSA-practice/tree/master/0904-fruit-into-baskets) |
