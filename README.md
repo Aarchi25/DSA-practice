@@ -68,6 +68,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/Aarchi25/DSA-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aarchi25/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aarchi25/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aarchi25/DSA-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aarchi25/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -133,6 +135,7 @@
 | [0867-transpose-matrix](https://github.com/Aarchi25/DSA-practice/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Aarchi25/DSA-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aarchi25/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aarchi25/DSA-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aarchi25/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarchi25/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -237,6 +240,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Aarchi25/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Aarchi25/DSA-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aarchi25/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aarchi25/DSA-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aarchi25/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aarchi25/DSA-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
