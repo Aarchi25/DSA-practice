@@ -5,18 +5,23 @@ public:
         if (nums.size() == 0) {
          return 0;
           }
-        sort(nums.begin(),nums.end());
-        int longest=1,currCnt=0,lastSmaller=INT_MIN;
+        int longest=1;
+        unordered_set<int>st;
+
         for(int i=0;i<nums.size();i++){
-            if(nums[i]-1==lastSmaller){
-                currCnt++;
-                lastSmaller=nums[i];
+           st.insert(nums[i]);
+        }
+        for(auto it:st){
+            if(st.find(it-1)==st.end()){
+                int cnt=1;
+                int x=it;
+                while(st.find(x+1)!=st.end()){
+                    x=x+1;
+                    cnt++;
+                }
+                longest=max(longest,cnt);
             }
-            else if(nums[i]!=lastSmaller){
-                currCnt=1;
-                lastSmaller=nums[i];
-            }
-            longest=max(longest,currCnt);
+
         }
         return longest;
     }
