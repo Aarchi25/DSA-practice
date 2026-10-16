@@ -59,6 +59,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aarchi25/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Aarchi25/DSA-practice/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Aarchi25/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Aarchi25/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aarchi25/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aarchi25/DSA-practice/tree/master/0014-longest-common-prefix) |
+| [0128-longest-consecutive-sequence](https://github.com/Aarchi25/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Aarchi25/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -255,4 +257,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Aarchi25/DSA-practice/tree/master/0867-transpose-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aarchi25/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
