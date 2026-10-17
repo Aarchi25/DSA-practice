@@ -128,6 +128,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Aarchi25/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/Aarchi25/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -146,6 +147,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aarchi25/DSA-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -226,6 +228,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Aarchi25/DSA-practice/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Aarchi25/DSA-practice/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
