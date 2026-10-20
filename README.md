@@ -33,6 +33,7 @@
 | [0412-fizz-buzz](https://github.com/Aarchi25/DSA-practice/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aarchi25/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0709-to-lower-case](https://github.com/Aarchi25/DSA-practice/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aarchi25/DSA-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
