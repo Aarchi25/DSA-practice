@@ -35,6 +35,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/Aarchi25/DSA-practice/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/Aarchi25/DSA-practice/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aarchi25/DSA-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
