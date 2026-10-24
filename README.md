@@ -126,6 +126,7 @@
 | [0234-palindrome-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aarchi25/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Aarchi25/DSA-practice/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -157,6 +158,7 @@
 | [0503-next-greater-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Aarchi25/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Aarchi25/DSA-practice/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Aarchi25/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Aarchi25/DSA-practice/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Aarchi25/DSA-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Aarchi25/DSA-practice/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/Aarchi25/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Aarchi25/DSA-practice/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Aarchi25/DSA-practice/tree/master/1929-concatenation-of-array) |
 ## Matrix
