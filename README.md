@@ -46,6 +46,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aarchi25/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2409-count-days-spent-together](https://github.com/Aarchi25/DSA-practice/tree/master/2409-count-days-spent-together) |
 ## String Matching
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0412-fizz-buzz](https://github.com/Aarchi25/DSA-practice/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aarchi25/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarchi25/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2409-count-days-spent-together](https://github.com/Aarchi25/DSA-practice/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
