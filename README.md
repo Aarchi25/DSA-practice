@@ -108,6 +108,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aarchi25/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1603-design-parking-system](https://github.com/Aarchi25/DSA-practice/tree/master/1603-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -295,6 +296,7 @@
 | [0412-fizz-buzz](https://github.com/Aarchi25/DSA-practice/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Aarchi25/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Aarchi25/DSA-practice/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/Aarchi25/DSA-practice/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Aarchi25/DSA-practice/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
@@ -316,6 +318,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aarchi25/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aarchi25/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
+| [1603-design-parking-system](https://github.com/Aarchi25/DSA-practice/tree/master/1603-design-parking-system) |
 ## Monotonic Stack
 |  |
 | ------- |
