@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Aarchi25/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aarchi25/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0234-palindrome-linked-list) |
@@ -327,4 +328,16 @@
 | [0503-next-greater-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aarchi25/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aarchi25/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
