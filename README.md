@@ -87,6 +87,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Aarchi25/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aarchi25/DSA-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aarchi25/DSA-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Aarchi25/DSA-practice/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aarchi25/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aarchi25/DSA-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -358,4 +360,12 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aarchi25/DSA-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aarchi25/DSA-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
