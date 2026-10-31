@@ -140,6 +140,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aarchi25/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0328-odd-even-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0206-reverse-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aarchi25/DSA-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -332,6 +335,7 @@
 | [0503-next-greater-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aarchi25/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aarchi25/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
