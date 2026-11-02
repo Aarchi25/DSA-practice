@@ -239,6 +239,7 @@
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Aarchi25/DSA-practice/tree/master/0178-rank-scores) |
 | [0585-investments-in-2016](https://github.com/Aarchi25/DSA-practice/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aarchi25/DSA-practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Aarchi25/DSA-practice/tree/master/0595-big-countries) |
