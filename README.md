@@ -32,6 +32,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Aarchi25/DSA-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aarchi25/DSA-practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Aarchi25/DSA-practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Aarchi25/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Aarchi25/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aarchi25/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Aarchi25/DSA-practice/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Aarchi25/DSA-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aarchi25/DSA-practice/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Aarchi25/DSA-practice/tree/master/0412-fizz-buzz) |
@@ -265,6 +267,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aarchi25/DSA-practice/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Aarchi25/DSA-practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aarchi25/DSA-practice/tree/master/0231-power-of-two) |
 ## Trie
@@ -306,6 +309,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aarchi25/DSA-practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Aarchi25/DSA-practice/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Aarchi25/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Aarchi25/DSA-practice/tree/master/0867-transpose-matrix) |
