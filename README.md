@@ -35,6 +35,7 @@
 | [0067-add-binary](https://github.com/Aarchi25/DSA-practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Aarchi25/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Aarchi25/DSA-practice/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Aarchi25/DSA-practice/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -121,6 +122,7 @@
 | [0002-add-two-numbers](https://github.com/Aarchi25/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Aarchi25/DSA-practice/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Aarchi25/DSA-practice/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Aarchi25/DSA-practice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Aarchi25/DSA-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aarchi25/DSA-practice/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Aarchi25/DSA-practice/tree/master/0412-fizz-buzz) |
