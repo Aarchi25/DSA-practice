@@ -20,6 +20,7 @@
 | [0392-is-subsequence](https://github.com/Aarchi25/DSA-practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aarchi25/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -101,6 +102,7 @@
 | [0148-sort-list](https://github.com/Aarchi25/DSA-practice/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Aarchi25/DSA-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aarchi25/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarchi25/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aarchi25/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1901-find-a-peak-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Aarchi25/DSA-practice/tree/master/1929-concatenation-of-array) |
@@ -202,6 +205,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aarchi25/DSA-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
