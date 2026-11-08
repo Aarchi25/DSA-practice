@@ -103,6 +103,7 @@
 | [0148-sort-list](https://github.com/Aarchi25/DSA-practice/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aarchi25/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/Aarchi25/DSA-practice/tree/master/0561-array-partition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Aarchi25/DSA-practice/tree/master/2747-count-zero-request-servers) |
 ## Heap (Priority Queue)
@@ -183,6 +184,7 @@
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Aarchi25/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/Aarchi25/DSA-practice/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Aarchi25/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Aarchi25/DSA-practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Aarchi25/DSA-practice/tree/master/0735-asteroid-collision) |
@@ -215,6 +217,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Aarchi25/DSA-practice/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/Aarchi25/DSA-practice/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
@@ -418,4 +421,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Aarchi25/DSA-practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
