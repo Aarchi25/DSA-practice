@@ -273,6 +273,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Aarchi25/DSA-practice/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Aarchi25/DSA-practice/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Aarchi25/DSA-practice/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/Aarchi25/DSA-practice/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Aarchi25/DSA-practice/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/Aarchi25/DSA-practice/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Aarchi25/DSA-practice/tree/master/1795-rearrange-products-table) |
