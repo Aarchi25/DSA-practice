@@ -270,6 +270,7 @@
 | [1407-top-travellers](https://github.com/Aarchi25/DSA-practice/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Aarchi25/DSA-practice/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aarchi25/DSA-practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1587-bank-account-summary-ii](https://github.com/Aarchi25/DSA-practice/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Aarchi25/DSA-practice/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Aarchi25/DSA-practice/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Aarchi25/DSA-practice/tree/master/1683-invalid-tweets) |
