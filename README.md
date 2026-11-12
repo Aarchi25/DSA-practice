@@ -179,6 +179,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Aarchi25/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Aarchi25/DSA-practice/tree/master/0049-group-anagrams) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Aarchi25/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Aarchi25/DSA-practice/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Aarchi25/DSA-practice/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
@@ -372,6 +374,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -398,6 +401,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -428,4 +432,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Aarchi25/DSA-practice/tree/master/0561-array-partition) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
