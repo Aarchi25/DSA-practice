@@ -282,6 +282,7 @@
 | [1873-calculate-special-bonus](https://github.com/Aarchi25/DSA-practice/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Aarchi25/DSA-practice/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aarchi25/DSA-practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3570-find-books-with-no-available-copies](https://github.com/Aarchi25/DSA-practice/tree/master/3570-find-books-with-no-available-copies) |
 ## Bit Manipulation
 |  |
 | ------- |
