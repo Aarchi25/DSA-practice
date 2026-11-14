@@ -204,6 +204,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Aarchi25/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2747-count-zero-request-servers](https://github.com/Aarchi25/DSA-practice/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aarchi25/DSA-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aarchi25/DSA-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aarchi25/DSA-practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
