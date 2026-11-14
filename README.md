@@ -204,6 +204,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Aarchi25/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2747-count-zero-request-servers](https://github.com/Aarchi25/DSA-practice/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aarchi25/DSA-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aarchi25/DSA-practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Aarchi25/DSA-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aarchi25/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aarchi25/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aarchi25/DSA-practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aarchi25/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aarchi25/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2747-count-zero-request-servers](https://github.com/Aarchi25/DSA-practice/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aarchi25/DSA-practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
 | ------- |
