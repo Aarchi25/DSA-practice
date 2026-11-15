@@ -135,6 +135,7 @@
 | [0412-fizz-buzz](https://github.com/Aarchi25/DSA-practice/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aarchi25/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarchi25/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aarchi25/DSA-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Aarchi25/DSA-practice/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
@@ -169,6 +170,7 @@
 | [0392-is-subsequence](https://github.com/Aarchi25/DSA-practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aarchi25/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aarchi25/DSA-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarchi25/DSA-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aarchi25/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aarchi25/DSA-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Aarchi25/DSA-practice/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aarchi25/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
@@ -232,6 +235,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Aarchi25/DSA-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aarchi25/DSA-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aarchi25/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aarchi25/DSA-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aarchi25/DSA-practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
