@@ -54,6 +54,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aarchi25/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Aarchi25/DSA-practice/tree/master/2409-count-days-spent-together) |
 ## String Matching
 |  |
@@ -345,6 +346,7 @@
 | [0867-transpose-matrix](https://github.com/Aarchi25/DSA-practice/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/Aarchi25/DSA-practice/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Aarchi25/DSA-practice/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Matrix
 |  |
 | ------- |
