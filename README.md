@@ -182,6 +182,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Aarchi25/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aarchi25/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aarchi25/DSA-practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Aarchi25/DSA-practice/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Aarchi25/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
@@ -217,6 +218,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aarchi25/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aarchi25/DSA-practice/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Aarchi25/DSA-practice/tree/master/0704-binary-search) |
