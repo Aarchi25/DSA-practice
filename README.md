@@ -190,6 +190,7 @@
 | [0503-next-greater-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Aarchi25/DSA-practice/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Aarchi25/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Aarchi25/DSA-practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aarchi25/DSA-practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Aarchi25/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Aarchi25/DSA-practice/tree/master/0867-transpose-matrix) |
@@ -216,6 +217,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/Aarchi25/DSA-practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aarchi25/DSA-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aarchi25/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/Aarchi25/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
