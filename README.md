@@ -39,6 +39,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Aarchi25/DSA-practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aarchi25/DSA-practice/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Aarchi25/DSA-practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Aarchi25/DSA-practice/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aarchi25/DSA-practice/tree/master/0392-is-subsequence) |
@@ -411,6 +412,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Aarchi25/DSA-practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -426,6 +428,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Aarchi25/DSA-practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -444,6 +447,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Aarchi25/DSA-practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -483,4 +487,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Aarchi25/DSA-practice/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Aarchi25/DSA-practice/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
