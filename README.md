@@ -406,6 +406,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -420,6 +421,7 @@
 | [0101-symmetric-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -437,6 +439,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -451,6 +454,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aarchi25/DSA-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0226-invert-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Indexed Tree
