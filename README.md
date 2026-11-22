@@ -55,6 +55,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aarchi25/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarchi25/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aarchi25/DSA-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aarchi25/DSA-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aarchi25/DSA-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Aarchi25/DSA-practice/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aarchi25/DSA-practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
