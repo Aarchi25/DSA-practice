@@ -425,6 +425,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarchi25/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -446,6 +447,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarchi25/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -470,6 +472,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarchi25/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
