@@ -15,8 +15,7 @@ public:
 
 
         }
-        if(diff<(num-1) && chance==1) return true;
-        if(diff<(num-1) && chance==0) return false;
+        if(chance==1) return true;
         return false;
     }
 };
