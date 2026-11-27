@@ -423,6 +423,7 @@
 | [0257-binary-tree-paths](https://github.com/Aarchi25/DSA-practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Aarchi25/DSA-practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Aarchi25/DSA-practice/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Aarchi25/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0965-univalued-binary-tree) |
@@ -447,6 +448,7 @@
 | [0257-binary-tree-paths](https://github.com/Aarchi25/DSA-practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Aarchi25/DSA-practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Aarchi25/DSA-practice/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Aarchi25/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0965-univalued-binary-tree) |
@@ -473,6 +475,7 @@
 | [0257-binary-tree-paths](https://github.com/Aarchi25/DSA-practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Aarchi25/DSA-practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Aarchi25/DSA-practice/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Aarchi25/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0965-univalued-binary-tree) |
@@ -510,6 +513,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aarchi25/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Aarchi25/DSA-practice/tree/master/0563-binary-tree-tilt) |
 ## Counting Sort
 |  |
 | ------- |
