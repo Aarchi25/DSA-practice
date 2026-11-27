@@ -431,6 +431,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarchi25/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aarchi25/DSA-practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Aarchi25/DSA-practice/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -455,6 +456,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarchi25/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aarchi25/DSA-practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -483,6 +485,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarchi25/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aarchi25/DSA-practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Aarchi25/DSA-practice/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Aarchi25/DSA-practice/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
